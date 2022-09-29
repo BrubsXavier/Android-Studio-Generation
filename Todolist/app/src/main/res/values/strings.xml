@@ -9,4 +9,6 @@
     <string name="descricao">Descrição</string>
     <string name="responsavel">Responsável</string>
     <string name="em_andamento">Em andamento</string>
+    <string name="description">Descrição</string>
+    <string name="apagar_tarefa">Apagar Tarefa</string>
 </resources>

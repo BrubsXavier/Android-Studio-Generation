@@ -4,6 +4,7 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/bruna/AndroidStudioProjects/Todolist/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/bruna/AndroidStudioProjects/Todolist/app/src/main/res/layout/card_layout.xml" value="0.2" />
         <entry key="..\:/Users/bruna/AndroidStudioProjects/Todolist/app/src/main/res/layout/fragment_form.xml" value="0.20416666666666666" />
         <entry key="..\:/Users/bruna/AndroidStudioProjects/Todolist/app/src/main/res/layout/fragment_list.xml" value="0.20416666666666666" />
       </map>
